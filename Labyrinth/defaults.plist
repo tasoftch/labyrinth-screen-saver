@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>speed</key>
+	<integer>30</integer>
+	<key>size</key>
+	<integer>2</integer>
+	<key>backgroundColor</key>
+	<integer>0</integer>
+	<key>gridColor</key>
+	<integer>16777215</integer>
+	<key>solutionColor</key>
+	<integer>65280</integer>
+	<key>playSound</key>
+	<true/>
+	<key>waitingSeconds</key>
+	<integer>2</integer>
+	<key>random</key>
+	<true/>
+</dict>
+</plist>
